@@ -1,4 +1,4 @@
-# k-prototype
+# k-prototypes
   Our project is on the application of an existing algorithm, clustering, to a novel dataset, the Top 100 Instagram accounts. The benefit of this application is to provide insight into the underlying clusters across top accounts on one of the most influential sffocial networks, and also has business and content consumption impacts. The main stumbling blocks are collecting and coding the data, and clustering appropriately for the mixture of numerical and categorical attributes. Scale and timeline is controlled by limiting analysis to the top 100 accounts.
 ## Getting Started
 
